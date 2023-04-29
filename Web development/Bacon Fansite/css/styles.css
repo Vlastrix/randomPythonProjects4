@@ -1,0 +1,37 @@
+/***********************TAG SELECTORS****************************/
+/*
+THESE ARE CALLED PROPERTIES
+h1 {
+  color: green;
+  font-size: 200px;
+}
+*/
+/*
+sets the background color for all the images to red
+*/
+img:hover {
+  background-color: gold;
+}
+
+/***********************Class Selectors****************************/
+/* specific properties wipe out non specific properties*/
+.bacon {
+  background-color: red;
+}
+
+.broccoli {
+  background-color: green;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/***********************Id Selectors****************************/
+
+#heading {
+  color: green;
+  font-family: Papyrus;
+  font-size: 146px;
+}
+
+

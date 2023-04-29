@@ -1,0 +1,28 @@
+/* Tag selector */
+body {
+    background-color: paleturquoise;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 8px;
+  border-color: #9D9D9D;
+  width: 3%;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+h1 {
+  color: #B61919;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #FF4848;
+}
+/* Class Selector */
+
+/* Id Selector */
